@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 void main(){
   //Take Array
 puts("Enter Number\n");
