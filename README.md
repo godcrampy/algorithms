@@ -1,1 +1,1 @@
-# sorting_algorithms
+a few algorithms written in c language
