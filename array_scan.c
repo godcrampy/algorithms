@@ -1,6 +1,6 @@
 #include <stdio.h>
 void main(){
-  puts("Enter Number\n");
+  printf("Enter Number\n");
   int n,i;
   scanf("%d",&n);
   int a[n];
@@ -9,5 +9,4 @@ void main(){
     scanf("%d",&a[i]);
     printf("the %dth number is %d\n",i,a[i]);
   }
-
 }
